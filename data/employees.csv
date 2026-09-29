@@ -1,0 +1,4 @@
+id,name,email,department,role,salary
+1,Rahul,rahul@example.com,IT,Python Developer,70000
+2,Priya,priya@example.com,HR,HR Manager,80000
+3,Amit,amit@example.com,Finance,Financial Analyst,65000
