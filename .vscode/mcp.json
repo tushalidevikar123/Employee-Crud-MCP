@@ -2,12 +2,12 @@
     "servers": {
         "employee-developer-assistant": {
             "type": "stdio",
-            "command": "${workspaceFolder}\\employee-crud-mcp\\.venv\\Scripts\\python.exe",
+            "command": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
             "args": [
                 "-m",
                 "developer_mcp.mcp_server"
             ],
-            "cwd": "${workspaceFolder}\\employee-crud-mcp"
+            "cwd": "${workspaceFolder}"
         }
     }
 }
